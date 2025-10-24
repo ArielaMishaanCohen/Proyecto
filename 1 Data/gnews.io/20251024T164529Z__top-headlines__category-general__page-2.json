@@ -1,0 +1,160 @@
+{
+  "information": {
+    "realTimeArticles": {
+      "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+    }
+  },
+  "totalArticles": 7707832,
+  "articles": [
+    {
+      "id": "017062bf3db3fa694b332f2d60b3ba2f",
+      "title": "Tổng thống Nam Phi thăm gia đình Đại tướng Võ Nguyên Giáp",
+      "description": "Trong khuôn khổ chuyến thăm Việt Nam, sáng nay, Tổng thống Nam Phi Matamela Cyril Ramaphosa đã đến thăm gia đình Đại tướng Võ Nguyên Giáp (30 Hoàng Diệu, Hà Nội).",
+      "content": "Đi cùng Tổng thống Nam Phi có Bộ trưởng Tư pháp Nguyễn Hải Ninh; Thứ trưởng Ngoại giao Lê Anh Tuấn.\nTại nhà riêng Đại tướng Võ Nguyên Giáp, Tổng thống Nam Phi Matamela Cyril Ramaphosa và đoàn đã dâng hương, thành kính bày tỏ lòng tri ân sâu sắc đến Đ... [1600 chars]",
+      "url": "https://vietnamnet.vn/tong-thong-nam-phi-tham-gia-dinh-dai-tuong-vo-nguyen-giap-2455902.html",
+      "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/10/24/tong-thong-nam-phi-tham-gia-dinh-dai-tuong-vo-nguyen-giap-957.jpg?width=0&s=YwJgu4rm_x3iypfKNQPxeA",
+      "publishedAt": "2025-10-24T04:44:00Z",
+      "lang": "vi",
+      "source": {
+        "id": "178ea092320deb9895c216146dc4d1a5",
+        "name": "Báo VietNamNet",
+        "url": "https://vietnamnet.vn"
+      }
+    },
+    {
+      "id": "a017a523e50b40de5405bab81fe546e4",
+      "title": "В \"Укрзалізниці\" повідомили про зміни в русі поїздів через російські атаки",
+      "description": "\"Укрзалізниця\" повідомила про затримки поїздів через масовані обстріли в кількох областях. На Кіровоградщині пошкоджено інфраструктуру, на Харківщині та Сумщині діє комбіноване транспортування.",
+      "content": "\"Укрзалізниця\" повідомила про зміни в русі поїздів на Харківщині, Сумщині і Кіровоградщині. Компанія використовує комбіновану логістику для перевезення пасажирів, зокрема залізничники задіюють резервні локомотиви, об’їзні маршрути та комбіноване тран... [1830 chars]",
+      "url": "https://weukraine.tv/novyny/v-ukrzaliznitsi-povidomili-pro-zmini-v-rusi-pojizdiv-cherez-rosijski-ataki/",
+      "image": "https://weukraine.tv/img/article/1562/8_main-v1761281036.jpg",
+      "publishedAt": "2025-10-24T04:43:56Z",
+      "lang": "uk",
+      "source": {
+        "id": "44affc1a4b0f421e2a70db6e381daed1",
+        "name": "Ми Україна",
+        "url": "https://weukraine.tv"
+      }
+    },
+    {
+      "id": "3b85086c1e8e4f4cc4fb73d4173bbc09",
+      "title": "\"ฮุน มาเนต \" บิดเบือน กต.ไทยยัน ไม่ได้คุยเรื่องแผนที่ 1ต่อ 200,000",
+      "description": "กระทรวงต่างประเทศไทยยืนยันอีกเสียง ไม่ได้พูดคุยเรื่องแผนที่ 1:200,000 แก้ปัญหาบ้านหนองจาน-หนองหญ้าแก้ว ในระหว่างการประชุม JBC ตามที่ ฮุน มาเนต เอาไปโพสต์อ้างในโซเชียล",
+      "content": "กระทรวงต่างประเทศไทยยืนยันอีกเสียง ไม่ได้พูดคุยเรื่องแผนที่ 1:200,000 แก้ปัญหาบ้านหนองจาน-หนองหญ้าแก้ว ในระหว่างการประชุม JBC ตามที่ ฮุน มาเนต เอาไปโพสต์อ้างในโซเชียล\nกระทรวงการต่างประเทศของไทยแถลงชี้แจง ตามที่มีรายงานข่าวเรื่องข้อความในโซเชียลมีเดีย... [2275 chars]",
+      "url": "https://www.thairath.co.th/news/foreign/2891029",
+      "image": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa6rpOgPlkGOJjxxyoCwWB8hMn6qfNEGFFsOs376MA6HZEq6Tn7LW.jpg",
+      "publishedAt": "2025-10-24T04:43:49Z",
+      "lang": "th",
+      "source": {
+        "id": "2c631cf76721352e4d7f927f8443f411",
+        "name": "Thairath",
+        "url": "https://www.thairath.co.th"
+      }
+    },
+    {
+      "id": "45b57b9b3a5c0240fe3112f79299c2df",
+      "title": "500 bin konut projesi bugün açıklanıyor... Kimler alabilecek, taksitler ne kadar olacak?",
+      "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul Başakşehir’de bugün düzenlenecek “Yüzyılın Konut Projesi 500 Bin Sosyal Konut Tanıtım Töreni”nde yeni sosyal konut projesinin detaylarını açıklayacak.",
+      "content": "Türkiye deprem bölgesinde edindiği inşa tecrübesini, 81 ili kapsayan yeni bir konut seferberliğine dönüştürüyor. Bugüne kadar 1 milyon 740 bin sosyal konutu TOKİ eliyle inşa eden Çevre, Şehircilik ve İklim Değişikliği Bakanlığı bu kez Türkiye tarihin... [1734 chars]",
+      "url": "https://www.ntv.com.tr/ntvpara/500-bin-konut-projesi-bugun-aciklaniyor-kimler-alabilecek-taksitler-ne-kadar-olacak,_bPG-OGI9U-dgEeGUWl1xw",
+      "image": "https://cdn1.ntv.com.tr/gorsel/J2z1PKzJ9Eac2kScANBV6A.jpg?width=1080&mode=crop&scale=both",
+      "publishedAt": "2025-10-24T04:43:46Z",
+      "lang": "tr",
+      "source": {
+        "id": "377efac54b77a66c66ddbd816e077673",
+        "name": "NTV Haber",
+        "url": "https://www.ntv.com.tr"
+      }
+    },
+    {
+      "id": "000d31f1a1efb5df6a1e3a0b2f2711b0",
+      "title": "DAP moves to ease Chinese Malaysian concerns after Anwar’s school hall alcohol comments, says Guan Eng",
+      "description": "PUTRAJAYA, Oct 24 — DAP secretary-general Anthony Loke has reached out to Prime Minister Datuk Seri Anwar Ibrahim to convey the Chinese Malaysian community’s unease following...",
+      "content": "PUTRAJAYA, Oct 24 — DAP secretary-general Anthony Loke has reached out to Prime Minister Datuk Seri Anwar Ibrahim to convey the Chinese Malaysian community’s unease following Anwar’s remarks in Parliament that alcohol should not be served in Chinese ... [1254 chars]",
+      "url": "https://www.malaymail.com/news/malaysia/2025/10/24/dap-moves-to-ease-chinese-malaysian-concerns-after-anwars-school-hall-alcohol-comments-says-guan-eng/195727",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2025/10/24/305867.JPG",
+      "publishedAt": "2025-10-24T04:43:45Z",
+      "lang": "en",
+      "source": {
+        "id": "b31ab9de2dcdd2e8f28efaa42a2f74b6",
+        "name": "Malay Mail",
+        "url": "https://www.malaymail.com"
+      }
+    },
+    {
+      "id": "9681996f8dce852f6ac92d1518e3adc5",
+      "title": "Christchurch-Sydney flight lands after 'technical issue' over Tasman",
+      "description": "Emergency services met Air New Zealand Flight NZ221 on landing in Sydney as a precaution.",
+      "content": "An Air New Zealand flight from Christchurch to Sydney was met by emergency services on arrival at Sydney Airport this morning after a technical issue was reported during the flight.\nFlight NZ221, operated by an Airbus A320, experienced the issue whil... [795 chars]",
+      "url": "https://www.1news.co.nz/2025/10/24/christchurch-sydney-flight-lands-after-technical-issue-over-tasman/",
+      "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/air-nz-airbus-a320-TPISNSCP4ZDH5HTTMHISSKONWQ.jpg?auth=6d94def21f6f579f97b5f541cd87e8c5201d8f3dc0d9196648bee0e15b8450a1&quality=70&width=600&height=315&focal=1251%2C751",
+      "publishedAt": "2025-10-24T04:43:38Z",
+      "lang": "en",
+      "source": {
+        "id": "9b3921fcecffb9abd8da549eacb0a84a",
+        "name": "1News",
+        "url": "https://www.1news.co.nz"
+      }
+    },
+    {
+      "id": "d4bc402d8a1755c9eb7eca523058ee26",
+      "title": "Erste Bank Open: Sinner bleibt in Wien in der Erfolgsspur",
+      "description": "Auch Alexander Zverev steht beim ATP-500-Turnier in der Bundeshauptstadt im Viertelfinale.",
+      "content": "Die beiden Topgesetzten der Erste Bank Open in Wien sind am Donnerstag souverän ins Viertelfinale eingezogen. Superstar Jannik Sinner setzte sich in der Runde der letzten 16 gegen seinen italienischen Landsmann Flavio Cobolli (ATP 22) mit 6:2, 7:6 (4... [4693 chars]",
+      "url": "https://www.oetv.at/news-detail/erste-bank-open-sinner-bleibt-in-wien-in-der-erfolgsspur",
+      "image": "https://www.oetv.at/fileadmin/_processed_/6/b/csm_ATP_Erste_Bank_Open_Wien_Sinner_2_498f018252.jpg",
+      "publishedAt": "2025-10-24T04:43:35Z",
+      "lang": "de",
+      "source": {
+        "id": "173249da712e9507dfd094ad385df1e7",
+        "name": "ÖTV",
+        "url": "https://www.oetv.at"
+      }
+    },
+    {
+      "id": "a3e2eda0f706f79fbdbe96b144181cea",
+      "title": "Hyský při oslavě svlékl triko, výhru zařadil výš než postup v Římě z roku 1996",
+      "description": "Nový kouč fotbalistů Plzně Martin Hyský a šéf klubu Adolf Šádek slavili vítězství v Evropské lize na hřišti AS Řím velmi emotivně.",
+      "content": "Padesátiletý bývalý obránce nynější triumf zařadil ještě o trochu výše než památný postup v barvách Slavie přes stejného soupeře ze čtvrtfinále v roce 1996.\nNa tiskové konferenci označil zápas za největší v trenérské kariéře, vzpomínat na něj bude do... [3746 chars]",
+      "url": "https://sport.aktualne.cz/fotbal/hysky-pri-oslave-svlekl-triko-vyhru-zaradil-vys-nez-postup-v/r~d7719f36b09311f0a26cac1f6b220ee8/",
+      "image": "https://cdn.xsd.cz/original/7849b30d3ad63e4e97d76c16489ff195.jpg",
+      "publishedAt": "2025-10-24T04:43:13Z",
+      "lang": "cs",
+      "source": {
+        "id": "5e00cdab3208fd64450dc3ccbd9f4ef6",
+        "name": "Aktuálně",
+        "url": "https://sport.aktualne.cz"
+      }
+    },
+    {
+      "id": "87218df96326c86f01c2256f9f8f4151",
+      "title": "How will what hostages ate in Gaza affect them?",
+      "description": "Professor Yuval Khalad, an expert in human physiology, explains what happens to the body step by step as it enters a state of extreme, prolonged hunger, and what the long-term effects could be.",
+      "content": "Less than 300 calories a day: Hostages to face long-term effects from starvation\nProfessor Yuval Khalad, an expert in human physiology, explains what happens to the body step by step as it enters a state of extreme, prolonged hunger, and what the lon... [264 chars]",
+      "url": "https://www.jpost.com/health-and-wellness/article-871494",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/680128",
+      "publishedAt": "2025-10-24T04:43:11Z",
+      "lang": "en",
+      "source": {
+        "id": "78834c45a26f98bca295cc641123cf7f",
+        "name": "The Jerusalem Post",
+        "url": "https://www.jpost.com"
+      }
+    },
+    {
+      "id": "c01fd40877340e6589388761658b4283",
+      "title": "A supera los 5,8 millones de copias vendidas en su primera semana: comparativa con Arceus, % en Switch 2 y más datos",
+      "description": "¡Tenemos cifra de ventas globales de Leyendas Pokémon: Z-A! El juego ya está disponible en Switch y Switch 2 y ahora tenemos más contenidos que se suman",
+      "content": "¡Tenemos cifra de ventas globales de Leyendas Pokémon: Z-A! El juego ya está disponible en Switch y Switch 2 y ahora tenemos más contenidos que se suman a sus precios oficiales.\nYa sabéis que Leyendas Pokémon: Z-A ha confirmado edición mejorada para ... [1755 chars]",
+      "url": "https://www.nintenderos.com/nintendo-switch-2/leyendas-pokemon-z-a-supera-los-58-millones-de-copias-vendidas-en-su-primera-semana-comparativa-con-arceus-en-switch-2-y-mas-datos/",
+      "image": "https://www.nintenderos.com/wp-content/uploads/2025/10/800slider-leyendas-pokemon-za-a-1250x695.png",
+      "publishedAt": "2025-10-24T04:43:06Z",
+      "lang": "es",
+      "source": {
+        "id": "f63b77d069b810ca4bfdc54396023e6f",
+        "name": "Nintenderos",
+        "url": "https://www.nintenderos.com"
+      }
+    }
+  ]
+}

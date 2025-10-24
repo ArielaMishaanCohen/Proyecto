@@ -1,0 +1,7 @@
+{
+  "requests_made": 13,
+  "total_articles_returned": 100,
+  "unique_articles_added": 98,
+  "raw_dir": "data/raw",
+  "last_page_attempted": 12
+}

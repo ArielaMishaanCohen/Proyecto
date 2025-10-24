@@ -1,0 +1,160 @@
+{
+  "information": {
+    "realTimeArticles": {
+      "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+    }
+  },
+  "totalArticles": 7707832,
+  "articles": [
+    {
+      "id": "723e4e18ff1e6d6e4b4726bb7f3e02d7",
+      "title": "Australie: 21 kilos de coke: un Genevois condamné à plus de 8 ans de prison",
+      "description": "Le jeune Suisse de 21 ans avait été arrêté à l'aéroport de Melbourne avec une valise pleine de drogue.",
+      "content": "Un jeune Suisse a été condamné ce vendredi en Australie à 8 ans et 8 mois de prison pour trafic de drogue. La sentence est assortie d’une peine ferme minimale de près de 5 ans derrière les barreaux: 4 ans et 10 mois sans possibilité de libération.\nLe... [1032 chars]",
+      "url": "https://www.lematin.ch/story/australie-21-kilos-de-coke-un-genevois-condamne-a-plus-de-8-ans-de-prison-103439051",
+      "image": "https://image.lematin.ch/2025/10/24/aff66485-f4d2-4a93-b0bb-6d666cf38e65.jpg?auto=format%2Ccompress%2Cenhance&fit=crop&w=1200&h=675&rect=0%2C0%2C1052%2C722&fp-x=0.6083650190114068&fp-y=0.502770083102493&crop=focalpoint&s=281c07f6b1bd0c62239fa215e6957922",
+      "publishedAt": "2025-10-24T04:31:58Z",
+      "lang": "fr",
+      "source": {
+        "id": "996c1ad5cf3d61f2d558973aa515cf7f",
+        "name": "Le Matin",
+        "url": "https://www.lematin.ch"
+      }
+    },
+    {
+      "id": "154a82c96c72c8a4f3de87f51ad56be9",
+      "title": "TV host Kim Atienza's 19-year-old daughter Emman found dead in Los Angeles, family confirms the tragedy",
+      "description": "Los Angeles County records indicate that the cause of death was ligature hanging",
+      "content": "Los Angeles County records indicate that the cause of death was ligature hanging\nLast updated: October 24, 2025 | 08:31\nManjusha Radhakrishnan, Entertainment, Lifestyle and Sport Editor\n2 MIN READ\nDubai: Filipino television host Kim Atienza announced... [3908 chars]",
+      "url": "https://gulfnews.com/entertainment/tv-host-kim-atienzas-19-year-old-daughter-emman-found-dead-in-los-angeles-family-confirms-the-tragedy-1.500319437",
+      "image": "https://media.assettype.com/gulfnews%2F2025-10-24%2Fatjqffzp%2Ffilipino.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2025-10-24T04:31:55Z",
+      "lang": "en",
+      "source": {
+        "id": "67a75b7410eea346facd8011733ff377",
+        "name": "Gulf News",
+        "url": "https://gulfnews.com"
+      }
+    },
+    {
+      "id": "95d4ab40ded5307edc9a24dd9f0551dd",
+      "title": "السعودية.. تفاصيل مروعة كيف قتل رجل زوجته قبل إعلان إعدامه تكشفها الداخلية",
+      "description": "أعلنت وزارة الداخلية السعودية، الخميس، تنفيذها لحكم الإعدام بحق مواطن سعودي أقدم على قتل زوجته كاشفة تفاصيل مروعة عن كيف أقدم على جريمته، في منطقة الحدود الشمالية",
+      "content": "الشرق الأوسط\nنشر الجمعة ، 24 أكتوبر / تشرين الأول 2025\n2 min قراءة\nدبي، الإمارات العربية المتحدة (CNN)—أعلنت وزارة الداخلية السعودية، الخميس، تنفيذها لحكم الإعدام (القتل تعزيرا) بحق مواطن سعودي أقدم على قتل زوجته كاشفة تفاصيل مروعة عن كيف أقدم على جر... [1127 chars]",
+      "url": "https://arabic.cnn.com/middle-east/article/2025/10/24/saudi-horrific-details-man-killing-his-wife-statement-execution",
+      "image": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/10/24/images/313370.jpg",
+      "publishedAt": "2025-10-24T04:31:55Z",
+      "lang": "ar",
+      "source": {
+        "id": "01ea8ffb756848d972367aea3f7ad929",
+        "name": "CNN Arabic",
+        "url": "https://arabic.cnn.com"
+      }
+    },
+    {
+      "id": "60d013cfe4a35b3d836beb7c37d406f2",
+      "title": "Balbino Fuenmayor impuso marca personal y Caribes apaleó a Águilas",
+      "description": "Balbino Fuenmayor bateó de 5-5, el primer juego de su carrera de 5 hits y remolcó cinco rayitas en la paliza 19-4 de Caribes contra Águilas",
+      "content": "Caracas.- Balbino Fuenmayor bateó de 5-5, el primer juego con cinco hits de su carrera, que complementó con cinco empujadas para encabezar ofensiva de 19 imparables, que sirvió para que Caribes de Anzoátegui apaleara 19-4 a Águilas del Zulia, la noch... [9005 chars]",
+      "url": "https://lvbp.com/noticias/balbino-fuenmayor-impuso-marca-personal-y-caribes-apaleo-a-aguilas/",
+      "image": "https://lvbp.com/wp-content/uploads/2025/10/Fuenmayor_Balbino_01_Abrir.jpg",
+      "publishedAt": "2025-10-24T04:31:29Z",
+      "lang": "es",
+      "source": {
+        "id": "4bb31f23a11b259ee3be8001bb7e0e9d",
+        "name": "Liga Venezolana de Béisbol Profesional",
+        "url": "https://lvbp.com"
+      }
+    },
+    {
+      "id": "66f8e4df079c2ad0936e8eff59adb61f",
+      "title": "Budi Arie Bawa Rombongan Anggota Projo ke Rumah Jokowi di Solo",
+      "description": "Ketua Umum Pro Jokowi (Projo), Budi Arie Setiadi, bersama rombongan DPP Projo menemui Jokowi di kediaman Solo.",
+      "content": "Jakarta, CNN Indonesia --\nKetua Umum Pro Jokowi (Projo) Budi Arie Setiadi menemui Presiden RI ke-7 Joko Widodo (Jokowi) di Sumber, Banjarsari. Budi Arie menemui Jokowi bersama rombongan DPP Projo.\nBudi Arie datang bersama rombongan DPP Projo masuk ke... [609 chars]",
+      "url": "https://www.cnnindonesia.com/nasional/20251024110735-32-1288002/budi-arie-bawa-rombongan-anggota-projo-ke-rumah-jokowi-di-solo",
+      "image": "https://akcdn.detik.net.id/visual/2025/10/24/ketum-projo-budie-arie-menemui-presiden-ke-7-joko-widodo-1761279482164_169.jpeg?w=1200",
+      "publishedAt": "2025-10-24T04:31:12Z",
+      "lang": "id",
+      "source": {
+        "id": "90ee3820d5ba55d4e2412fc48dfdd4c3",
+        "name": "CNN Indonesia",
+        "url": "https://www.cnnindonesia.com"
+      }
+    },
+    {
+      "id": "ed1b0923e1ffc9e9f77c59250c2352a6",
+      "title": "Dermatose nodulaire bovine : les premières bennes de la colère des éleveurs du Tarn",
+      "description": "À l’appel de la FDSEA et des Jeunes Agriculteurs, quelque 80 éleveurs se sont réunis ce jeudi soir 23 octobre 202 à la Chambre d’agriculture de Tarn-et-Garonne, à Montauban,...",
+      "content": "Les premières guirlandes de Noël commencent à être installées en cette soirée pluvieuse du 23 octobre 2025 à Montauban mais à quelques centaines de mètres de la place Nationale, rue Sainte-Claire, devant le siège de la Direction départementale des Te... [3684 chars]",
+      "url": "https://www.ladepeche.fr/2025/10/24/dermatose-nodulaire-bovine-les-premieres-bennes-de-la-colere-des-eleveurs-du-tarn-et-garonne-deversees-a-montauban-13011424.php",
+      "image": "https://images.ladepeche.fr/api/v1/images/view/68faabab0a11411f590a6d90/hd/image.jpg?v=1",
+      "publishedAt": "2025-10-24T04:31:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "7670a57160a612236fa405691f78799e",
+        "name": "ladepeche.fr",
+        "url": "https://www.ladepeche.fr"
+      }
+    },
+    {
+      "id": "c00c0a2434a546bbf97dcee13471abe9",
+      "title": "Ukraine-Krieg aktuell: Ministerin Reiche in Kiew eingetroffen - „Wir werden alles tun“",
+      "description": "Aktuelle News zum Ukraine-Krieg im Ticker. Drohne schlägt in Wohnhaus in Moskau ein. Wirtschaftsministerin Reiche reist nach Kiew.",
+      "content": "Startseite\nPolitik\nUkraine-Krieg aktuell: Ministerin Reiche in Kiew eingetroffen – „Wir werden alles tun“\nVon: Christian Stör, Simon Schröder, Paula Völkner, Felix Busjaeger\nAktuelle News zum Ukraine-Krieg im Ticker. Drohne schlägt in Wohnhaus in Mos... [13891 chars]",
+      "url": "https://www.fr.de/politik/ukraine-krieg-aktuell-news-ticker-trump-tomahawk-russland-sanktionen-putin-zr-94000818.html",
+      "image": "https://www.fr.de/assets/images/40/193/40193095-wirtschaftsministerin-reiche-in-der-ukraine-wef.jpg",
+      "publishedAt": "2025-10-24T04:31:00Z",
+      "lang": "de",
+      "source": {
+        "id": "680d2de74fca632ffec74097a0204f44",
+        "name": "Frankfurter Rundschau",
+        "url": "https://www.fr.de"
+      }
+    },
+    {
+      "id": "40b66daa75435e591624f23f76eb31b1",
+      "title": "Заморожені активи РФ - позиція Бельгії застала ЄС зненацька - УНІАН",
+      "description": "Бельгія зірвала плани ЄС щодо вилучення заморожених російських активів, заставши Альянс зненацька.",
+      "content": "Прем'єр-міністр Бельгії Барт Де Вевер зірвав плани ЄС щодо вилучення заморожених російських активів і надання життєво важливого кредиту в розмірі 140 мільярдів євро Україні. Як пише Politico, це означає, що лідерам ЄС тепер доведеться повернутися до ... [2715 chars]",
+      "url": "https://www.unian.ua/economics/finance/zamorozheni-aktivi-rf-poziciya-belgiji-zastala-yes-znenacka-13173123.html",
+      "image": "https://images.unian.net/photos/2025_09/thumb_files/1000_545_1758798638-2399.jpg?1",
+      "publishedAt": "2025-10-24T04:31:00Z",
+      "lang": "uk",
+      "source": {
+        "id": "d4361862486677369ff2ae7719b8d313",
+        "name": "УНІАН",
+        "url": "https://www.unian.ua"
+      }
+    },
+    {
+      "id": "13add0c5f47530d54a3bb6833357b5e5",
+      "title": "Mikael Granlund: ennennäkemätön temppu",
+      "description": "Mikael Granlundin mielestä Anaheim Ducksin pitäisi silti parantaa puolustuspeliään.",
+      "content": "Philadelphia\nAnaheim Ducksiin täksi kaudeksi siirtynyt Mikael Granlund oli järisyttävässä vireessä Boston Bruinsia vastaan.\nDucksin suomalaissentteri takoi viisi (2+3) pistettä, kun Ducks kaatoi Bruinsin lukemin 7–5.\nGranlund aloitti pisteilottelunsa... [1780 chars]",
+      "url": "https://www.hs.fi/urheilu/art-2000011580485.html",
+      "image": "https://images.sanoma-sndp.fi/a41f9269ee8effc4ea0dedb371077075/some/hs-default.jpg",
+      "publishedAt": "2025-10-24T04:31:00Z",
+      "lang": "fi",
+      "source": {
+        "id": "07b283984c8a8338fdd582adff1826f1",
+        "name": "HS.fi",
+        "url": "https://www.hs.fi"
+      }
+    },
+    {
+      "id": "b72a63e6969afa05f0d8881111c876bd",
+      "title": "Bigg Boss 19: वोटिंग ट्रेंड में सबसे आगे चल रहा है ये नॉमिनेटेड कंटेस्टेंट , यूजर्स ने बताया कौन बाहर",
+      "description": "बिग बॉस 19 पर नॉमिनेट हुए कंटेस्टेंट गौरव खन्ना, बसीर अली, प्रणित मोरे और नेहल को लेकर वोटिंग ट्रेंड की रिपोर्ट सामने आई है। इस रिपोर्ट के मुताबिक ये कंटेस्टेंट टॉप पर चल रहा है। , Bollywood Hindi News - Hindustan",
+      "content": "बिग बॉस 19 में हाल में नॉमिनेशन टास्क परफॉर्म किया गया था। इस टास्क की खासियत थी कि इस बार कंटेस्टेंट का नॉमिनेशन किस्मत के भरोसे था। बिग बॉस ने घरवालों को अपना लकी नंबर चुनने को कहा था।लकी नंबर के साथ जिस भी कंटेस्टेंट की तस्वीर सामने आएगी उसे वो घर... [1090 chars]",
+      "url": "https://www.livehindustan.com/entertainment/bollywood/bigg-boss-19-nominated-contestants-voting-trends-gaurav-khanna-pranit-more-baseer-ali-and-nehal-chudasama-201761279712262.html",
+      "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2025/10/24/1600x900/logo/erdeddeffgddgxddd_1761280172276_1761280177077.jpg",
+      "publishedAt": "2025-10-24T04:30:58Z",
+      "lang": "hi",
+      "source": {
+        "id": "aa4a4cc64ed3abc97e8c428681f7fa5c",
+        "name": "Hindustan",
+        "url": "https://www.livehindustan.com"
+      }
+    }
+  ]
+}
