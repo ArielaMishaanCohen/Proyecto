@@ -1,4 +1,0 @@
-{
-  "error": "HTTP Error 422: UNPROCESSABLE ENTITY",
-  "url": "https://newsdata.io/api/1/latest?apikey=pub_ae938e782309499483762d7b875da563&full_content=1&size=10&q=news"
-}
