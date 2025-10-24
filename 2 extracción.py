@@ -11,7 +11,7 @@ from newspaper import Article
 # CONFIG
 # =========================
 API_KEY = "51a2fc81ffe543709ef96c0e284e7f39"
-OUT_DIR = os.path.join("1 Data", "raw")
+OUT_DIR = os.path.join("1_Data", "raw")
 SEEN_URLS_FILE = "seen_urls.pkl"
 MAX_REQUESTS = 200  # total máximo de requests
 SLEEP_BETWEEN = 0.7
