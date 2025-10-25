@@ -388,6 +388,7 @@ class SummarizationTrainer:
         print("GENERANDO MUESTRAS")
         print("="*60)
         
+        self.model.to("cpu")
         samples = []
         
         for i in range(min(n_samples, len(test_df))):
@@ -408,7 +409,7 @@ class SummarizationTrainer:
                 num_beams=4,  # Beam search para mejor calidad
                 early_stopping=True
             )
-            
+                        
             generated = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
             
             sample = {
