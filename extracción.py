@@ -17,7 +17,7 @@ MAX_REQUESTS = 200  # total máximo de requests
 SLEEP_BETWEEN = 0.7
 HOURLY_REQUEST_LIMIT = 30  # límite de requests por cada 15 minutos
 PAGE_SIZE = 20  # máximo que permite NewsAPI por página
-DAYS_BACK = 30  # Cuántos días hacia atrás buscar noticias
+DAYS_BACK = 29  # Cuántos días hacia atrás buscar noticias
 
 # Inicializa NewsAPI
 newsapi = NewsApiClient(api_key=API_KEY)

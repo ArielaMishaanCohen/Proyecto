@@ -1,0 +1,27 @@
+======================================================================
+                    REPORTE DE LIMPIEZA
+======================================================================
+
+Archivo original: 1_Data/processed/clustering_data.csv
+Archivo limpio: 1_Data/processed/clustering_data_cleaned.csv
+
+ESTADÍSTICAS:
+----------------------------------------------------------------------
+Documentos originales: 403
+Documentos finales: 249
+Reducción: 38.2%
+
+ELIMINACIONES:
+----------------------------------------------------------------------
+Duplicados: 51
+Textos cortos: 0
+Fuentes con pocos artículos: 103
+Casi-duplicados: 0
+
+RESULTADO FINAL:
+----------------------------------------------------------------------
+Documentos: 249
+Fuentes: 60
+Longitud promedio: 27.1 palabras
+
+======================================================================

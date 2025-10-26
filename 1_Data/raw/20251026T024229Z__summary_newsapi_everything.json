@@ -1,0 +1,9 @@
+{
+  "requests_made": 6,
+  "total_articles_returned": 90,
+  "unique_articles_added": 90,
+  "previous_urls_count": 444,
+  "total_urls_now": 534,
+  "date_range": "2025-10-10 to 2025-10-25",
+  "raw_dir": "1_Data/raw"
+}
