@@ -1,0 +1,16 @@
+{
+  "batch_size": 16,
+  "num_epochs": 3,
+  "learning_rate": 2e-05,
+  "warmup_steps": 100,
+  "evaluation_steps": 50,
+  "save_steps": 100,
+  "max_seq_length": 256,
+  "min_cluster_size": 5,
+  "min_samples": 3,
+  "val_split": 0.2,
+  "random_seed": 42,
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "num_train_examples": 621,
+  "num_val_examples": 156
+}

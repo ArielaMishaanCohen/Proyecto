@@ -1,0 +1,56 @@
+[
+  {
+    "cluster_id": 0,
+    "size": 5,
+    "percentage": 1.1520737327188941,
+    "sample_titles": [
+      "Bethesda Announces Fallout 4 Anniversary Edition, Confirms Nintendo Switch 2 Version for 2026",
+      "Bethesda's Fallout Day stream reveals Fallout 4 Anniversary Edition, confirms the 2015 RPG is coming to Switch 2, and no New Vegas remake, but here's a collectors bundle instead",
+      "Bethesda celebrates Fallout Day with a host of announcements, including a Fallout 4 Anniversary Edition and Nintendo Switch 2 Edition, a native Fallout 76 release for PS5 and Xbox Series X, and more"
+    ],
+    "top_sources": {
+      "IGN": 2,
+      "GamesRadar+": 1
+    }
+  },
+  {
+    "cluster_id": 1,
+    "size": 232,
+    "percentage": 53.45622119815668,
+    "sample_titles": [
+      "Bruce Springsteen lent helping hand to director's family after Los Angeles wildfires",
+      "Trump backs off planned surge of federal agents into San Francisco after talking to the mayor",
+      "Xbox Game Pass October Wave 2 is wild: The Outer Worlds 2, PowerWash 2, Football Manager 26, and a mech farming sim. Yes, really"
+    ],
+    "top_sources": {
+      "The Times of India": 33,
+      "Memeorandum.com": 26
+    }
+  },
+  {
+    "cluster_id": 2,
+    "size": 12,
+    "percentage": 2.7649769585253456,
+    "sample_titles": [
+      "TRONOX CLASS ACTION ALERT: Bragar Eagel & Squire, P.C. Urgently Reminds Tronox Investors of the November 3rd Deadline in the Filed Class Action",
+      "DOW CLASS ACTION ALERT: Bragar Eagel & Squire, P.C. Urgently Reminds Dow Investors of the October 28th Deadline in the Filed Class Action",
+      "LIFEMD CLASS ACTION REMINDER: Bragar Eagel & Squire, P.C. Urgently Reminds Investors of the October 27th Deadline in the Filed Class Action"
+    ],
+    "top_sources": {
+      "GlobeNewswire": 12
+    }
+  },
+  {
+    "cluster_id": 3,
+    "size": 6,
+    "percentage": 1.3824884792626728,
+    "sample_titles": [
+      "Baker Hughes reports Q3 RPO of $35.3B, including record IET RPO of $32.1B",
+      "Phillips Edison reports Q3 core EPS 65c, consensus 64c",
+      "OP Bancorp reports Q3 EPS 45c, two estimates 44c"
+    ],
+    "top_sources": {
+      "Thefly.com": 6
+    }
+  }
+]
