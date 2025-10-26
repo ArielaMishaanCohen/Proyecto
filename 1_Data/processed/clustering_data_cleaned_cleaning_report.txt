@@ -7,21 +7,21 @@ Archivo limpio: 1_Data/processed/clustering_data_cleaned.csv
 
 ESTADÍSTICAS:
 ----------------------------------------------------------------------
-Documentos originales: 403
-Documentos finales: 249
-Reducción: 38.2%
+Documentos originales: 611
+Documentos finales: 434
+Reducción: 29.0%
 
 ELIMINACIONES:
 ----------------------------------------------------------------------
-Duplicados: 51
+Duplicados: 54
 Textos cortos: 0
-Fuentes con pocos artículos: 103
-Casi-duplicados: 0
+Fuentes con pocos artículos: 120
+Casi-duplicados: 3
 
 RESULTADO FINAL:
 ----------------------------------------------------------------------
-Documentos: 249
-Fuentes: 60
+Documentos: 434
+Fuentes: 88
 Longitud promedio: 27.1 palabras
 
 ======================================================================
