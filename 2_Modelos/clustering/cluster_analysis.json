@@ -1,56 +1,71 @@
 [
   {
     "cluster_id": 0,
-    "size": 5,
-    "percentage": 1.1520737327188941,
-    "sample_titles": [
-      "Bethesda Announces Fallout 4 Anniversary Edition, Confirms Nintendo Switch 2 Version for 2026",
-      "Bethesda's Fallout Day stream reveals Fallout 4 Anniversary Edition, confirms the 2015 RPG is coming to Switch 2, and no New Vegas remake, but here's a collectors bundle instead",
-      "Bethesda celebrates Fallout Day with a host of announcements, including a Fallout 4 Anniversary Edition and Nintendo Switch 2 Edition, a native Fallout 76 release for PS5 and Xbox Series X, and more"
-    ],
-    "top_sources": {
-      "IGN": 2,
-      "GamesRadar+": 1
-    }
-  },
-  {
-    "cluster_id": 1,
-    "size": 232,
-    "percentage": 53.45622119815668,
-    "sample_titles": [
-      "Bruce Springsteen lent helping hand to director's family after Los Angeles wildfires",
-      "Trump backs off planned surge of federal agents into San Francisco after talking to the mayor",
-      "Xbox Game Pass October Wave 2 is wild: The Outer Worlds 2, PowerWash 2, Football Manager 26, and a mech farming sim. Yes, really"
-    ],
-    "top_sources": {
-      "The Times of India": 33,
-      "Memeorandum.com": 26
-    }
-  },
-  {
-    "cluster_id": 2,
-    "size": 12,
-    "percentage": 2.7649769585253456,
+    "size": 22,
+    "percentage": 5.0691244239631335,
     "sample_titles": [
       "TRONOX CLASS ACTION ALERT: Bragar Eagel & Squire, P.C. Urgently Reminds Tronox Investors of the November 3rd Deadline in the Filed Class Action",
       "DOW CLASS ACTION ALERT: Bragar Eagel & Squire, P.C. Urgently Reminds Dow Investors of the October 28th Deadline in the Filed Class Action",
       "LIFEMD CLASS ACTION REMINDER: Bragar Eagel & Squire, P.C. Urgently Reminds Investors of the October 27th Deadline in the Filed Class Action"
     ],
     "top_sources": {
-      "GlobeNewswire": 12
+      "GlobeNewswire": 16,
+      "Thefly.com": 5
+    }
+  },
+  {
+    "cluster_id": 1,
+    "size": 16,
+    "percentage": 3.686635944700461,
+    "sample_titles": [
+      "Xbox Game Pass October Wave 2 is wild: The Outer Worlds 2, PowerWash 2, Football Manager 26, and a mech farming sim. Yes, really",
+      "Bethesda Announces Fallout 4 Anniversary Edition, Confirms Nintendo Switch 2 Version for 2026",
+      "PUBG maker Krafton is turning into an ‘AI first’ developer"
+    ],
+    "top_sources": {
+      "Windows Central": 3,
+      "IGN": 2
+    }
+  },
+  {
+    "cluster_id": 2,
+    "size": 36,
+    "percentage": 8.294930875576037,
+    "sample_titles": [
+      "Manipur marks Ningol Chakkouba amid hope & heartbreak for IDPs",
+      "J&K Speaker rejects Congress, NC’s plea for discussion on AAP MLA’s detention; HC quashes aide’s preventive custody",
+      "Arbaz Patel loses weight after reality show Rise and Fall; says ‘I wanted to reset physically and mentally’"
+    ],
+    "top_sources": {
+      "The Times of India": 30,
+      "BBC News": 2
     }
   },
   {
     "cluster_id": 3,
-    "size": 6,
-    "percentage": 1.3824884792626728,
+    "size": 39,
+    "percentage": 8.986175115207374,
     "sample_titles": [
-      "Baker Hughes reports Q3 RPO of $35.3B, including record IET RPO of $32.1B",
-      "Phillips Edison reports Q3 core EPS 65c, consensus 64c",
-      "OP Bancorp reports Q3 EPS 45c, two estimates 44c"
+      "U.S. Senate hopeful Graham Platner says he’s covered up his tattoo after learning it was a Nazi symbol: ‘I wanted this thing off my body’",
+      "Person matching Chauncey Billups' description allegedly shared Trail Blazers tanking information with bettors",
+      "How much does Alabama football GM Courtney Morgan make? Total pay, SEC salary rank"
     ],
     "top_sources": {
-      "Thefly.com": 6
+      "Sporting News": 8,
+      "USA Today": 7
+    }
+  },
+  {
+    "cluster_id": 4,
+    "size": 22,
+    "percentage": 5.0691244239631335,
+    "sample_titles": [
+      "Trump Administration Live Updates: President Shelves Plan to Deploy Federal Agents to San Francisco (New York Times)",
+      "GOP senator denounces Trump's pardon of crypto billionaire CZ (Jasper Goodman/Politico)",
+      "A Pile of Rubble: After 123 Years, the East Wing Is Gone (Elisabeth Bumiller/New York Times)"
+    ],
+    "top_sources": {
+      "Memeorandum.com": 22
     }
   }
 ]

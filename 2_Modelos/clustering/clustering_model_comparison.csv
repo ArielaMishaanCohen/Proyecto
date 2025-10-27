@@ -1,0 +1,7 @@
+experiment_key,MIN_CLUSTER_SIZE,MIN_SAMPLES,METRIC,n_clusters,n_noise_points,silhouette_score,davies_bouldin_score,reasigned_points,model_key
+distilbert_config_1,15,8,euclidean,5,268,0.3400832414627075,1.1860783677355218,0,distilbert
+distilbert_config_2,5,3,cosine,14,195,0.2216704934835434,1.414907855792178,0,distilbert
+distilbert_config_3,20,10,euclidean,4,245,0.2693105936050415,1.4617186608792792,0,distilbert
+minilm_config_1,15,8,euclidean,0,434,-999.0,999.0,0,minilm
+minilm_config_2,5,3,cosine,8,334,0.11682029813528061,2.0026484497128205,0,minilm
+minilm_config_3,20,10,euclidean,0,434,-999.0,999.0,0,minilm

@@ -1,0 +1,27 @@
+{
+  "fine_tuning_config": {
+    "batch_size": 16,
+    "num_epochs": 3,
+    "learning_rate": 2e-05,
+    "warmup_steps": 100,
+    "evaluation_steps": 50,
+    "save_steps": 100,
+    "max_seq_length": 256,
+    "val_split": 0.2,
+    "random_seed": 42
+  },
+  "best_clustering_config": {
+    "MIN_CLUSTER_SIZE": 15,
+    "MIN_SAMPLES": 8,
+    "METRIC": "euclidean"
+  },
+  "model_name": "distilbert-base-uncased",
+  "experiment_key": "distilbert_config_1",
+  "metrics": {
+    "n_clusters": 5,
+    "n_noise_points": 268,
+    "silhouette_score": 0.3400832414627075,
+    "davies_bouldin_score": 1.1860783677355218,
+    "reasigned_points": 0
+  }
+}

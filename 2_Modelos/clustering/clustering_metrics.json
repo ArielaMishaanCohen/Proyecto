@@ -1,7 +1,7 @@
 {
-  "silhouette_score": 0.05168302357196808,
-  "davies_bouldin_index": 2.114290693944555,
-  "n_clusters": 4,
-  "n_outliers": 179,
-  "outlier_percentage": 41.244239631336406
+  "silhouette_score": 0.043244827538728714,
+  "davies_bouldin_index": 3.4961639835985343,
+  "n_clusters": 5,
+  "n_outliers": 299,
+  "outlier_percentage": 68.89400921658986
 }
