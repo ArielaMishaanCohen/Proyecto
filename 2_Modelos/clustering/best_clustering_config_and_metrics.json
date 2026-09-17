@@ -19,8 +19,8 @@
   "experiment_key": "distilbert_config_1",
   "metrics": {
     "n_clusters": 5,
-    "n_noise_points": 279,
-    "silhouette_score": 0.3397243022918701,
-    "davies_bouldin_score": 1.1306676911411417
+    "n_noise_points": 299,
+    "silhouette_score": 0.32915428280830383,
+    "davies_bouldin_score": 1.263066686125572
   }
 }

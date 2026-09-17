@@ -2,12 +2,12 @@ experiment_key,MIN_CLUSTER_SIZE,MIN_SAMPLES,METRIC,n_clusters,n_noise_points,sil
 distilbert_BASE_config_1,15,8,euclidean,0,434,-999.0,999.0,0.0,distilbert_base
 distilbert_BASE_config_2,5,3,cosine,5,347,0.1335325390100479,2.0215558482122074,0.0,distilbert_base
 distilbert_BASE_config_3,20,10,euclidean,0,434,-999.0,999.0,0.0,distilbert_base
-distilbert_config_1,15,8,euclidean,5,279,0.3397243022918701,1.1306676911411417,,distilbert
-distilbert_config_2,5,3,cosine,13,235,0.24355556070804596,1.41777825106547,,distilbert
-distilbert_config_3,20,10,euclidean,3,266,0.21902558207511902,1.7198361120354388,,distilbert
+distilbert_config_1,15,8,euclidean,5,299,0.32915428280830383,1.263066686125572,,distilbert
+distilbert_config_2,5,3,cosine,16,230,0.22984498739242554,1.4654052183030135,,distilbert
+distilbert_config_3,20,10,euclidean,2,228,0.19532179832458496,1.8745048992116795,,distilbert
 minilm_BASE_config_1,15,8,euclidean,0,434,-999.0,999.0,0.0,minilm_base
 minilm_BASE_config_2,5,3,cosine,11,330,0.12233953922986984,2.2198767952852205,0.0,minilm_base
 minilm_BASE_config_3,20,10,euclidean,0,434,-999.0,999.0,0.0,minilm_base
 minilm_config_1,15,8,euclidean,0,434,-999.0,999.0,,minilm
-minilm_config_2,5,3,cosine,7,328,0.11434850096702576,2.028447792412567,,minilm
+minilm_config_2,5,3,cosine,7,328,0.11434850841760635,2.028447864215358,,minilm
 minilm_config_3,20,10,euclidean,0,434,-999.0,999.0,,minilm
